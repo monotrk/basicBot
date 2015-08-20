@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "itiBot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
